@@ -1,7 +1,7 @@
 {
     "name": "mweb-demo-waves",
     "version": "0.1.0",
-    "sscript":{
+    "scripts":{
         "build":"webpack",
         "watch":"webpack --watch"
     },
